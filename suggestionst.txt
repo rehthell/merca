@@ -1,0 +1,45 @@
+1. padronizar elementos no código
+    -> incluir data-teste
+2. ícones 
+    -> adicionar tooltip
+    -> twitter/X
+        - desatualizado
+    -> tiktok 
+        - encaminha para conta diferente com mesmo nome
+3. links de rodapé
+    -> sem nome 
+    -> link 1 
+        - vírus
+4. botão
+    -> Ir/CONTINUAR
+5. campos
+    -> limitar campos
+    -> nome 
+        - exibe obrigatoriedade
+    -> data de nascimento
+        - máscara em inglês DD/MM/YYYY
+    -> inscrição estadual
+        - máximo 14 dígitos
+    -> razão social
+        - exibe obrigatoriedade
+    -> celular e telefone contato
+        - ambos aceitam mesma quantidade de dígitos
+    -> máximo e mínimo de dígitos
+    -> cep
+        - ajustar local da mensagem de erro
+    -> senha
+        - inserir regras 
+6. termos de adesão
+    -> texto diferente  
+        - CPF: Clique para ler e aceitar os termos de adesão
+        - CNPJ: Li e aceito os termos de adesão
+    -> formatação diferente
+        - web e cypress
+7. português
+    -> "EsTe" campo é obrigatório.
+    -> Ponto de "ReferÊncia"
+    -> traduções
+        - inglês
+        - espanhol
+8. tela de cadastro existente
+    -> duplicidade nas formas de contato    

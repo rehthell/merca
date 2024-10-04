@@ -1,0 +1,45 @@
+{
+    "access": {
+        "cpf": "981.525.330-17",
+        "invalidCpf": "123.456.789-01",
+        "registeredCpf": "300.300.300-30",
+        "cnpj": "61.414.593/0001-27",
+        "invalidCnpj": "12.234.678/0001-09"
+    } ,
+    "cpf": {
+        "name": "Carla",
+        "surname": "Lopes",        
+        "birthDate": "01/01/2000",
+        "invalidName": "C",
+        "invalidSurname": "L"  ,
+        "invalidBirthDate": "31/02/2000",
+        "invalidBirth": "31/01/1800"
+    },
+    "cnpj": {
+        "stateRegistration": "991.781.480.632",
+        "fantasyName": "Razão Social",
+        "phoneContact": "(68) 2995-1042",
+        "invalidStateRegistration": "991.781.480.632.000",
+        "invalidFantasyName": "R",
+        "invalidPhoneContact": "1100000000"        
+    },
+    "general": {
+        "cellphone": "(68) 92995-1042",
+        "invalidcellphone": "1100000000",
+        "email": "carlalopes@email.com.br",
+        "invalidEmail": "carlalopes",
+        "zipcode": "02060-050",
+        "invalidZipcode": "49000000",
+        "state": "AC",
+        "city": "Rio Branco",
+        "district": "Conjunto Castelo Branco",
+        "street": "Rua Afrânio Peixoto",
+        "number": "123",
+        "invalidNumber": "-a",
+        "addressComplement": "Complemento",
+        "addressReference": "Referência",
+        "password": "000000",
+        "confirmPassword": "000000",
+        "inavlidPassword": "1"
+    }
+}
